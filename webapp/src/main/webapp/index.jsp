@@ -1,11 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>final docker test Register for DevOps Learning</h1>
+    <h1>Ajibade - New User Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Nick Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Sur Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
